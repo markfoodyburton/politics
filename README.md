@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="output.gif"/>
+  <img src="./output.gif"/>
 </p>
 
 # Complexity and Gouvernance
