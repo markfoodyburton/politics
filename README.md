@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="output.gif"/>
+</p>
+
 # Complexity and Gouvernance
 
 ## Problem statement: Scale of complexity.
