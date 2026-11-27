@@ -7,7 +7,7 @@ Our societies face increasingly complex and interconnected problems, yet we stil
 Distributed Democracy proposes a different approach: distributing decision-making across citizens and institutions equipped to address particular issues.
 
 ## Watch the introduction
-
+https://github.com/markfoodyburton/politics/blob/master/distributed_democracy.mp4
 [▶ Watch Distributed Democracy — 50-second introduction](distributed_democracy.mp4)
 
 
