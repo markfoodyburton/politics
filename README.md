@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/a3b6a46d-c831-4868-84cd-861338910a88
+
 # Distributed Democracy
 
 **The world has changed. Has democracy?**
@@ -7,6 +11,8 @@ Our societies face increasingly complex and interconnected problems, yet we stil
 Distributed Democracy proposes a different approach: distributing decision-making across citizens and institutions equipped to address particular issues.
 
 ## Watch the introduction
+https://github.com/user-attachments/assets/a3b6a46d-c831-4868-84cd-861338910a88
+
 [![Watch](distributed_democracy.png)]https://raw.githubusercontent.com/markfoodyburton/politics/master/distributed_democracy.mp4)
 
 # Complexity and Gouvernance
