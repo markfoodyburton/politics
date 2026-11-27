@@ -1,6 +1,15 @@
-<p align="center">
-  <img src="./politics.gif"/>
-</p>
+# Distributed Democracy
+
+**The world has changed. Has democracy?**
+
+Our societies face increasingly complex and interconnected problems, yet we still rely on a relatively small number of politicians to make an enormous range of decisions.
+
+Distributed Democracy proposes a different approach: distributing decision-making across citizens and institutions equipped to address particular issues.
+
+## Watch the introduction
+
+[▶ Watch Distributed Democracy — 50-second introduction](distributed_democracy.mp4)
+
 
 # Complexity and Gouvernance
 
